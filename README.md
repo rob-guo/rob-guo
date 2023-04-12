@@ -1,4 +1,4 @@
-Kia ora te ao.
+Kia ora te ao
 
 <!---
 rob-guo/rob-guo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
